@@ -80,3 +80,7 @@ tests: Contains a simple test script that runs automated tests on the web applic
 ## Setting Up the Environment
 
 To set up the development environment for this project, you can follow the steps outlined in the Setting Up Guide.
+
+## Configuring Jenkins
+
+To configure Jenkins for this project, you can follow the steps outlined in the [Jenkins Configuration Guide](./docs/jenkins-
