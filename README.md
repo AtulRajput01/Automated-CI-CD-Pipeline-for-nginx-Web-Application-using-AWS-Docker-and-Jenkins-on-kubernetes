@@ -17,3 +17,12 @@ This project is an example of how to build an automated CI/CD pipeline for a sim
 . Automating the Pipeline
 . Monitoring and Maintaining the Pipeline
 . Conclusion
+
+
+# Prerequisites
+
+Before getting started, you should have the following prerequisites:
+
+. Basic knowledge of AWS, Docker, Jenkins, and Kubernetes
+. An AWS account
+. A development machine with Docker, Jenkins, and the AWS CLI installed
