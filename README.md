@@ -75,3 +75,8 @@ index.html: The static HTML page served by the web application.
 Jenkinsfile: The Jenkins pipeline script that builds and deploys the Docker image and runs automated tests.
 README.md: The project's README file.
 tests: Contains a simple test script that runs automated tests on the web application.
+
+
+## Setting Up the Environment
+
+To set up the development environment for this project, you can follow the steps outlined in the Setting Up Guide.
