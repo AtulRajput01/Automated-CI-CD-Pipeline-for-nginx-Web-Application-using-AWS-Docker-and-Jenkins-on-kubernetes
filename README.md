@@ -30,3 +30,14 @@ Before getting started, you should have the following prerequisites:
 ## Getting Started
 
 To get started with this project, you can follow the steps outlined in the Getting Started Guide.
+
+
+# Architecture Overview
+
+The architecture of the project consists of the following components:
+
+. Web Application: A simple nginx web application that serves a static HTML page.
+. Docker: A Dockerfile that defines the containerization of the web application.
+. Amazon ECR: A container registry to store the Docker images.
+. Kubernetes: A Kubernetes cluster to manage the deployment and scaling of the application.
+. Jenkins: A Jenkins instance to build and deploy the Docker images and run automated tests.
