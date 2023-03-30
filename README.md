@@ -5,7 +5,7 @@ Certainly! Here is a sample README file you can use as a starting point for your
 Automated CI/CD Pipeline for nginx Web Application using AWS, Docker, Jenkins, and Kubernetes
 This project is an example of how to build an automated CI/CD pipeline for a simple nginx web application using AWS, Docker, Jenkins, and Kubernetes. The pipeline automatically builds and deploys the web application whenever changes are made to the code.
 
-# Table of Contents
+## Table of Contents
 
 . Prerequisites
 . Getting Started
@@ -19,7 +19,7 @@ This project is an example of how to build an automated CI/CD pipeline for a sim
 . Conclusion
 
 
-# Prerequisites
+## Prerequisites
 
 Before getting started, you should have the following prerequisites:
 
@@ -27,12 +27,12 @@ Before getting started, you should have the following prerequisites:
 . An AWS account
 . A development machine with Docker, Jenkins, and the AWS CLI installed
 
-## Getting Started
+### Getting Started
 
 To get started with this project, you can follow the steps outlined in the Getting Started Guide.
 
 
-# Architecture Overview
+## Architecture Overview
 
 The architecture of the project consists of the following components:
 
