@@ -66,3 +66,12 @@ The project has the following structure:
 └── tests
     └── test.sh
 
+
+.github/workflows: Contains the GitHub Actions workflows that build and push the Docker image, deploy the application to Kubernetes, and run automated tests.
+docs: Contains the documentation for the project, including an architecture overview and a getting started guide.
+kubernetes: Contains the Kubernetes deployment and service definitions for the application.
+Dockerfile: Defines the Docker image for the web application.
+index.html: The static HTML page served by the web application.
+Jenkinsfile: The Jenkins pipeline script that builds and deploys the Docker image and runs automated tests.
+README.md: The project's README file.
+tests: Contains a simple test script that runs automated tests on the web application.
