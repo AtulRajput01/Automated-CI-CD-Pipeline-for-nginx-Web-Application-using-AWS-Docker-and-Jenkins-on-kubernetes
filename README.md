@@ -26,3 +26,7 @@ Before getting started, you should have the following prerequisites:
 . Basic knowledge of AWS, Docker, Jenkins, and Kubernetes
 . An AWS account
 . A development machine with Docker, Jenkins, and the AWS CLI installed
+
+## Getting Started
+
+To get started with this project, you can follow the steps outlined in the Getting Started Guide.
