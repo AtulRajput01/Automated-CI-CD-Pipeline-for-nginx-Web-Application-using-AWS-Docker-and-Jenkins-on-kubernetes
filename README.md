@@ -41,3 +41,28 @@ The architecture of the project consists of the following components:
 . Amazon ECR: A container registry to store the Docker images.
 . Kubernetes: A Kubernetes cluster to manage the deployment and scaling of the application.
 . Jenkins: A Jenkins instance to build and deploy the Docker images and run automated tests.
+
+
+## Project Structure
+The project has the following structure:
+
+├── .github
+│   └── workflows
+│       ├── build-and-push.yml
+│       ├── deploy-to-kubernetes.yml
+│       └── run-tests.yml
+├── docs
+│   ├── architecture.md
+│   ├── getting-started.md
+│   └── images
+│       └── architecture.png
+├── kubernetes
+│   ├── deployment.yml
+│   └── service.yml
+├── Dockerfile
+├── index.html
+├── Jenkinsfile
+├── README.md
+└── tests
+    └── test.sh
+
